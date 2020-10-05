@@ -1,0 +1,14 @@
+x = int(input((" enter the value : ")))
+if x>=21:
+    print("elgible for vote and marriage", x)
+
+      
+elif x>=18 :
+    print("eligible for Vote not for marriage",x)
+    
+    
+    
+else:
+    print("not eligible for marriage and vote", x  )
+    
+print()
